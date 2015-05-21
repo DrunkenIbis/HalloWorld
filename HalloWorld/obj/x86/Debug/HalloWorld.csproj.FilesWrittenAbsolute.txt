@@ -1,0 +1,5 @@
+/home/tester/HalloWorld/HalloWorld/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/tester/HalloWorld/HalloWorld/bin/Debug/HalloWorld.exe.mdb
+/home/tester/HalloWorld/HalloWorld/bin/Debug/HalloWorld.exe
+/home/tester/HalloWorld/HalloWorld/obj/x86/Debug/HalloWorld.exe
+/home/tester/HalloWorld/HalloWorld/obj/x86/Debug/HalloWorld.exe.mdb
